@@ -16,4 +16,4 @@
 
 ## Notes
 - The repository is currently empty except for the directory structure.
-- If you need help structuring your project or adding files, please provide more details. 
+- If you need help structuring your project or adding files, please provide more details.
